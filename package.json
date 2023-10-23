@@ -1,9 +1,9 @@
 {
+  "homepage": "https://Edson712.github.io/Weather-App-React",
   "name": "weather-app-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Edson712.github.io/Weather-App-React",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
